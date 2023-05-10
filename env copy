@@ -1,0 +1,3 @@
+1PORT=4000
+1DB_CNN=mongo1db+srv://adminDB:admin1server01@calendardb.xep2xy6.mongo1db.n1et/mern_calenda1r
+1SECRET_JSW_SEED=ramaldinho-ta-picado@_secritiii
