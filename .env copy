@@ -1,3 +1,0 @@
-1PORT=4000
-1DB_CNN=mongodb+srv://adminDB:adminserver01@calendardb.xep2xy6.mongodb.net/mern_calendar
-1SECRET_JSW_SEED=ramaldinho-ta-picado@_secritiii
